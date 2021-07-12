@@ -20,4 +20,4 @@ A video communication service that allows real time meetings using WebRTC and We
 
 ## Web App Interface
 Home
-<img align="center" src="https://imgur.com/QTyu1qV">
+<img align="center" src="https://i.imgur.com/QTyu1qV.jpg">
