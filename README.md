@@ -3,6 +3,10 @@ QuikMeet - Video Call and Chat
 
 A video communication service that allows real time meetings using WebRTC and WebSockets (socket.io). 
 
+<img align="center" src="https://i.imgur.com/UBwE9ot.jpg">
+
+
+
 ## Features
 - [x] No sign ups required
 - [x] Create new room or join an existing room
