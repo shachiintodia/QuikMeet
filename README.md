@@ -19,5 +19,5 @@ A video communication service that allows real time meetings using WebRTC and We
 [QuikMeet App](quikmeet.herokuapp.com)
 
 ## Web App Interface
-Home
+###Home<br>
 <img align="center" src="https://i.imgur.com/QTyu1qV.jpg">
