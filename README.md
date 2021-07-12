@@ -19,14 +19,14 @@ A video communication service that allows real time meetings using WebRTC and We
 [QuikMeet App](quikmeet.herokuapp.com)
 
 ## Web App Interface
-### Home<br><br>
+### Home<br>
 <img align="center" src="https://i.imgur.com/QTyu1qV.jpg">
 
-### Dialog Box to get user name <br><br>
+### Dialog Box to get user name <br>
 <img align="center" src="https://i.imgur.com/zxH5hCF.jpg">
 
-### Unique Room – Group video Call and Chat <br><br>
+### Unique Room – Group video Call and Chat <br>
 <img align="center" src="https://i.imgur.com/O5aCvRZ.jpg">
 
-### Collaborative Whiteboard <br><br>
+### Collaborative Whiteboard <br>
 <img align="center" src="https://i.imgur.com/78FUk6p.jpg">
